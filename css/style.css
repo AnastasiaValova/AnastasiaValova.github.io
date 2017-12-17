@@ -376,9 +376,7 @@ button {
 .minus:hover::before,
 .plus:hover::before,
 .minus:hover::after,
-.plus:hover::after,
-.minus:hover:focus,
-.plus:hover:focus {
+.plus:hover::after{
   background-color: #000000;
 }
 .minus:active::before,
